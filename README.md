@@ -3,9 +3,9 @@
 Bu uygulama, sinema rezervasyon işlemlerini yönetmek için bir WinForms uygulamasıdır. Kullanıcılar, filmleri ve seansları görüntüleyebilir, rezervasyon yapabilir ve rezervasyonları görüntüleyebilirler.
 
 Gereksinimler
-Visual Studio 2019 veya daha yeni bir sürümü
-.NET Core SDK
-SQLite veritabanı için gerekli paketler
+- Visual Studio 2019 veya daha yeni bir sürümü
+- .NET Core SDK
+- SQLite veritabanı için gerekli paketler
 Kurulum
 Projeyi bir Visual Studio ortamında açın.
 Projeyi derleyin.
