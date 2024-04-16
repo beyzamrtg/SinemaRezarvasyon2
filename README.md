@@ -22,5 +22,7 @@ Uygulama, iş mantığını ayrı servisler aracılığıyla gerçekleştirir. B
 - FilmServis: Filmlerle ilgili işlemleri yönetir.
 - SeansServis: Seanslarla ilgili işlemleri yönetir.
 - RezervasyonServis: Rezervasyonlarla ilgili işlemleri yönetir.
+
+  
 Veritabanı
 Uygulama, SQLite veritabanı kullanır. Veritabanı dosyası projenin içinde files klasörü altında bulunur. Gerektiğinde veritabanı dosyasını değiştirmek için AppDbContext.cs dosyasını düzenleyebilirsiniz. 
